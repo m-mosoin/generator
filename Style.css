@@ -1,0 +1,12 @@
+.hero{
+    background-color: olive;
+    background-size: cover;
+    height: 180vh;
+}
+#error{
+    padding-top: 50px;
+
+}
+.quantityInput{
+    display: none;
+}
